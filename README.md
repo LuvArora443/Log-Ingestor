@@ -15,7 +15,7 @@
 <h3 align="center">Log Ingestor</h3>
 
   <p align="center">
-    The project is a log ingestor that helps you ingest logs adn query it.
+    The project is a log ingestor that helps you ingest logs and query it.
     <br />
 
 </div>
